@@ -5,5 +5,7 @@ The garbage classification process is automated by building an image classifier 
 Achieved an accuracy of around 96%.
 
 Link to the application: https://drive.google.com/file/d/1MIlbjWO1NbkrJjNxINGNyrAWDgvCOm5D/view?usp=sharing (Request Access)
+
 Dataset Link: https://github.com/spotgarbage/spotgarbage-GINI
+
 Link to the research paper: https://ieeexplore.ieee.org/document/9573599
